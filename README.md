@@ -8,11 +8,6 @@ the latest versions (or specified versions) of PEAR packages.
 This code is taken from https://gist.github.com/305778, which is itself based on
 http://www.mit.edu/~marthag/puppet/pear.rb.
 
-You can see all the changes that have been made since the initial commit at the
-following URL:
-
-https://github.com/smerrill/puppet-pear/commits/master/lib/puppet/provider/package/pear.rb
-
 ## Example usage
 
 This module will try to install PEAR via the package name `php-pear` (this is
